@@ -2,7 +2,7 @@
 
 ## API de gestión de gastos en Laravel
 
-Este proyecto consiste en la creación de una API para una aplicación de seguimiento de gastos. La API permitirá a los usuarios crear, leer, actualizar y eliminar gastos, así como registrarse e iniciar sesión. Cada usuario tendrá su propio conjunto de gastos.
+Este proyecto consiste en la creación de una API Rest para una aplicación de seguimiento de gastos. La API permitirá a los usuarios crear, leer, actualizar y eliminar gastos, así como registrarse e iniciar sesión. Cada usuario tendrá su propio conjunto de gastos.
 
 ## REQUISITOS MÍNIMOS ESPECÍFICOS DE LARAVEL
 
